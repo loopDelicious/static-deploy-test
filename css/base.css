@@ -1,0 +1,15 @@
+body {
+    font: "Palatino Linotype";
+    font-size: 22px;
+    color: black;
+    background-image: url("../images/iguana.png");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#caption {
+    float: right;
+    margin-top: 15%;
+    margin-right: 75px;
+    margin-bottom: 10px;
+}
